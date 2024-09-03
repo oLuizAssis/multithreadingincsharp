@@ -1,0 +1,14 @@
+C:\Users\LAss01\Documents\Estudos\multithreadinginc#\bin\Debug\net8.0\multithreadinginc#.exe
+C:\Users\LAss01\Documents\Estudos\multithreadinginc#\bin\Debug\net8.0\multithreadinginc#.deps.json
+C:\Users\LAss01\Documents\Estudos\multithreadinginc#\bin\Debug\net8.0\multithreadinginc#.runtimeconfig.json
+C:\Users\LAss01\Documents\Estudos\multithreadinginc#\bin\Debug\net8.0\multithreadinginc#.dll
+C:\Users\LAss01\Documents\Estudos\multithreadinginc#\bin\Debug\net8.0\multithreadinginc#.pdb
+C:\Users\LAss01\Documents\Estudos\multithreadinginc#\obj\Debug\net8.0\multithreadinginc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAss01\Documents\Estudos\multithreadinginc#\obj\Debug\net8.0\multithreadinginc#.AssemblyInfoInputs.cache
+C:\Users\LAss01\Documents\Estudos\multithreadinginc#\obj\Debug\net8.0\multithreadinginc#.AssemblyInfo.cs
+C:\Users\LAss01\Documents\Estudos\multithreadinginc#\obj\Debug\net8.0\multithreadinginc#.csproj.CoreCompileInputs.cache
+C:\Users\LAss01\Documents\Estudos\multithreadinginc#\obj\Debug\net8.0\multithreadinginc#.dll
+C:\Users\LAss01\Documents\Estudos\multithreadinginc#\obj\Debug\net8.0\refint\multithreadinginc#.dll
+C:\Users\LAss01\Documents\Estudos\multithreadinginc#\obj\Debug\net8.0\multithreadinginc#.pdb
+C:\Users\LAss01\Documents\Estudos\multithreadinginc#\obj\Debug\net8.0\multithreadinginc#.genruntimeconfig.cache
+C:\Users\LAss01\Documents\Estudos\multithreadinginc#\obj\Debug\net8.0\ref\multithreadinginc#.dll
